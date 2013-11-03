@@ -1,0 +1,9 @@
+Задача Контекс
+
+Запуск:
+gcc ./threadC.c -o threadC
+
+./threadC
+
+Makarov Evgeny, KB-401
+2013
